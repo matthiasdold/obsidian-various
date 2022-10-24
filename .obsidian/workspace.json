@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "d48d64c4d195c5cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "66cec3ae1a939f75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "719cd41542e1901d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daylies/2022-10-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21d800541297cdcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa6e4b55a89f9cf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c37674bfeb061ca2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66bb17f4c219bc83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#feedback",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95e33256c4c4cc44",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7ece081e4974f16",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8bdb166b7bc871c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8add5ca6a93c9d10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daylies/2022-10-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd49fb527863ec58",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daylies/2022-10-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52d478c760e15669",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5db06401c8092319",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daylies/2022-10-24.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "c37674bfeb061ca2",
+  "lastOpenFiles": [
+    "Effective Writing Course/Outline/MyNotes.md",
+    "Effective Writing Course/Outline/Inge.md",
+    "Effective Writing Course/Outline/Dineke.md",
+    "Daylies/2022-10-24.md"
+  ]
+}
