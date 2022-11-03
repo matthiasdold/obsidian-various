@@ -1,5 +1,11 @@
 {
   "promptDelete": false,
   "spellcheck": true,
-  "vimMode": true
+  "vimMode": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "assets",
+  "newFileLocation": "current"
 }

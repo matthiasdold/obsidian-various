@@ -1,3 +1,10 @@
 {
-  "accentColor": "#4aa12b"
+  "accentColor": "#4aa12b",
+  "translucency": true,
+  "textFontFamily": "FiraCode Nerd Font",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "bullets"
+  ]
 }

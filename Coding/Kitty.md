@@ -1,0 +1,2 @@
+### Access denied on MacOS
+If I get an access denied e.g. for `cd ~/Documents` with kitty, I would need to reset the Full Disk Access, which I granted via `System Preferences -> Security & Privacy -> Full Disk Access`. There remove the access rights, close all kitty instances, and add again.

@@ -4,22 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "66cec3ae1a939f75",
+        "id": "0881bba56fbb253d",
         "type": "tabs",
         "children": [
           {
-            "id": "719cd41542e1901d",
+            "id": "c3d7b5c2581ce3be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daylies/2022-10-24.md",
+                "file": "Coding/Python Performance.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a0921e9ddeb4598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Kitty.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -48,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#feedback",
+                "query": "tag:#overhead",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a7ece081e4974f16",
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daylies/2022-10-24.md",
+                "file": "Coding/Kitty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daylies/2022-10-24.md",
+                "file": "Coding/Kitty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,25 +141,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daylies/2022-10-24.md"
+                "file": "Coding/Kitty.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "c37674bfeb061ca2",
+  "active": "0a0921e9ddeb4598",
   "lastOpenFiles": [
-    "Effective Writing Course/Outline/MyNotes.md",
-    "Effective Writing Course/Outline/Inge.md",
-    "Effective Writing Course/Outline/Dineke.md",
-    "Daylies/2022-10-24.md"
+    "Coding/Python Performance.md",
+    "Coding/Python logging.md",
+    "Coding/Ring Buffers.md",
+    "Coding/Certbot.md",
+    "Coding/Data structures.md",
+    "Coding/Xileh.md",
+    "Coding/Quotes.md",
+    "Coding/Ipython.md",
+    "Coding/Nvim.md",
+    "Coding/Tmux.md"
   ]
 }
